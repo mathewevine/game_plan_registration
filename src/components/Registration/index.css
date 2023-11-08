@@ -1,0 +1,64 @@
+.registration {
+    display: flex;
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.left-panel {
+    border-radius: 10px;
+    padding: 20px;
+    width: 30%;
+    height: 90%;
+    margin-right: 50px;
+    background-color: blue;
+    color: white;
+}
+
+.step {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+}
+
+.step-no {
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.step-name {
+    margin-bottom: -10px;
+}
+
+.selected-step-1 {
+    background-color: rgb(137, 209, 235);
+    color: blue;
+}
+
+.selected-step-2 {
+    background-color: rgb(137, 209, 235);
+    color: blue;
+}
+
+.selected-step-3 {
+    background-color: rgb(137, 209, 235);
+    color: blue;
+}
+
+.selected-step-4 {
+    background-color: rgb(137, 209, 235);
+    color: blue;
+}
+
+.form {
+    text-align: left;
+}

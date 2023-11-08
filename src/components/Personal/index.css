@@ -1,0 +1,31 @@
+label {
+    color: rgb(54, 62, 124);
+    margin-bottom: 10px;
+}
+
+.input {
+    margin-bottom: 20px;
+    width: 450px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid rgb(62, 62, 62. 0.4);
+}
+
+.personal-head {
+    color: rgb(37, 37, 111);
+}
+
+.personal-desc {
+    color: grey;
+}
+
+.next-btn {
+    align-self: flex-end;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: #14213D;
+    color: white;
+    margin-left: 350px;
+    margin-top: 30px;
+}
